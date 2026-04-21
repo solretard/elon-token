@@ -1,0 +1,7 @@
+[[CURRENCIES]]
+code = "ELON"
+issuer = "rna3aAfdNJEJuunNRWyvAWVWE8dS3BkxJi"
+display_decimals = 6
+name = "Elon"
+desc = "Elon token on XRPL"
+image = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/800px-Elon_Musk_Royal_Society_%28crop2%29.jpg"
